@@ -4,7 +4,7 @@ An intelligent PDF question-answering chatbot built with **Streamlit**, **LangCh
 
 ## 🚀 Live Demo
 
-🔗 **[Try it live on Hugging Face Spaces]()**
+🔗 **[Try it live on Hugging Face Spaces](https://huggingface.co/spaces/Shiryuxu/pdf-qa-chatbot)**
 
 ## ✨ Features
 
